@@ -16,6 +16,8 @@ I looked at how Americans handle their own data protection by analyzing the data
 
 * cybersecurity knowledge (https://www.pewresearch.org/internet/dataset/june-2016-cybersecurity-knowledge/)
 
+* Phishing related statistics from Webroot's _Hook Line and Sinker_ report (https://mypage.webroot.com/rs/557-FSI-195/images/Hook-Line-and-Sinker-Final.pdf)
+
 ## Contents 
 
 The code notebook (Jupyter) is annotated to walk through the different analysis that was done, and decisions that were made during the course of the analysis about how to use the data are documented through code comments. The clean data used for the visualizations are provided as .csv files.
